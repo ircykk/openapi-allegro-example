@@ -1,0 +1,12 @@
+# # FloatCategoryProductParameterAllOf
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**type** | **string** |  | [optional] [default to 'float']
+**restrictions** | [**\OpenAPI\Client\Model\FloatCategoryProductParameterAllOfRestrictions**](FloatCategoryProductParameterAllOfRestrictions.md) |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
+

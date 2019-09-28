@@ -1,0 +1,13 @@
+# # SinglePromotionCampaignResponseDto
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**campaign** | [**\OpenAPI\Client\Model\CampaignResponseDto**](CampaignResponseDto.md) |  | 
+**promotion** | [**\OpenAPI\Client\Model\PromotionResponseDto**](PromotionResponseDto.md) |  | 
+**status** | **string** |  | 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
+
